@@ -1,0 +1,26 @@
+{
+  "name": "SRH Solat",
+  "short_name": "SRH Solat",
+  "description": "Waktu solat, kiblat dan tahlil - Surau Raja Hairani Taman Meru Perdana 2",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E1E1E",
+  "theme_color": "#1E1E1E",
+  "lang": "ms",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
